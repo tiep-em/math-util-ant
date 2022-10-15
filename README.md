@@ -21,4 +21,4 @@ util class - Math
 
 #### Connect me via tiepkhodo@gmail.com
 
-#### Copyright &#169; 2022 tiepk
+#### Copyright &#169; 2022 tiepblue
